@@ -1,0 +1,7 @@
+"wait" = "Attendere prego...";
+"downloading" = "Risorse downloading ...";
+"download_failed" = "Impossibile risorse scaricare!";
+"retry" = "Riprova";
+"unpacking" = "Risorse disimballaggio ...";
+"unpack_failed" = "Impossibile decomprimere risorse!";
+"no_space" = "Non abbastanza spazio libero per decomprimere risorse. Si prega, libero di almeno %llu Mb.";

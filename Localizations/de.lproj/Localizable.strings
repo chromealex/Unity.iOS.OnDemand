@@ -1,0 +1,7 @@
+"wait" = "Warten Sie mal...";
+"downloading" = "Herunterladen von Ressourcen ...";
+"download_failed" = "Fehler beim Download Ressourcen!";
+"retry" = "Versuch es noch einmal";
+"unpacking" = "Auspacken Ressourcen ...";
+"unpack_failed" = "Fehlgeschlagen Ressourcen auspacken!";
+"no_space" = "Nicht genügend freier Speicherplatz Ressourcen zu entpacken. Bitte kostenlos mindestens %llu Mb.";

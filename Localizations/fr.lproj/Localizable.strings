@@ -1,0 +1,7 @@
+"wait" = "S'il vous plaît, attendez...";
+"downloading" = "Téléchargement des ressources ...";
+"download_failed" = "Impossible de télécharger des ressources!";
+"retry" = "Réessayer";
+"unpacking" = "Déballage des ressources ...";
+"unpack_failed" = "Impossible de décompresser les ressources!";
+"no_space" = "Pas assez d'espace libre pour décompresser les ressources. S'il vous plaît, libre au moins %llu Mb.";

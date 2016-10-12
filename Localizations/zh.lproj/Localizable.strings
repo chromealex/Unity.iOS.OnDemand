@@ -1,0 +1,7 @@
+"wait" = "请稍候...";
+"downloading" = "下载资源...";
+"download_failed" = "无法下载资源！";
+"retry" = "再试一次";
+"unpacking" = "开箱资源...";
+"unpack_failed" = "未能解开的资源！";
+"no_space" = "没有足够的空间来解压资源。请至少免费%llu兆。";

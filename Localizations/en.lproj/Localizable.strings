@@ -1,0 +1,7 @@
+"wait" = "Please wait...";
+"downloading" = "Downloading resources...";
+"download_failed" = "Failed to download resources!";
+"retry" = "Try again";
+"unpacking" = "Unpacking resources...";
+"unpack_failed" = "Failed to unpack resources!";
+"no_space" = "Not enough free space to unpack resources. Please, free at least %llu Mb.";

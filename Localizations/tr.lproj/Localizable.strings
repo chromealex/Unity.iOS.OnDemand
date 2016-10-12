@@ -1,0 +1,7 @@
+"wait" = "Lütfen bekle...";
+"downloading" = "Indiriliyor kaynakları ...";
+"download_failed" = "Indirmek kaynaklarına Başarısız!";
+"retry" = "Tekrar dene";
+"unpacking" = "Ambalajın açılması kaynakları ...";
+"unpack_failed" = "Kaynakları açmak için Başarısız!";
+"no_space" = "Yeterli boş alan kaynak açmak için. Lütfen, ücretsiz, en azından %llu Mb.";
