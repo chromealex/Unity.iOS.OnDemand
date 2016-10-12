@@ -2,6 +2,7 @@
 Useful to reduce iOS app size to ~70mb and compress your assets data using 7z.
 
 For example:
+
 Initial Unity application size: ~850mb
 
 Application size after use this "hack": ~70mb (app size) + ~180mb (ondemand) = ~250mb
